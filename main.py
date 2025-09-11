@@ -1,3 +1,4 @@
+# weight_convert.py
 weight_str = input()
 unit = weight_str[-2:]
 value = float(weight_str[:-2])
